@@ -1,0 +1,56 @@
+[
+  {
+    "id": 2,
+    "name": "Priya Sharma",
+    "branch": "ECE",
+    "rollNo": "EC102"
+  },
+  {
+    "id": 3,
+    "name": "Rohit Gupta",
+    "branch": "ME",
+    "rollNo": "ME103"
+  },
+  {
+    "id": 4,
+    "name": "Neha Verma",
+    "branch": "IT",
+    "rollNo": "IT104"
+  },
+  {
+    "id": 5,
+    "name": "Vikram Singh",
+    "branch": "EE",
+    "rollNo": "EE105"
+  },
+  {
+    "id": 6,
+    "name": "Sanya Malhotra",
+    "branch": "CSE",
+    "rollNo": "CS106"
+  },
+  {
+    "id": 7,
+    "name": "Arjun Mehta",
+    "branch": "ECE",
+    "rollNo": "EC107"
+  },
+  {
+    "id": 8,
+    "name": "Kajal Das",
+    "branch": "ME",
+    "rollNo": "ME108"
+  },
+  {
+    "id": 9,
+    "name": "Rajat Yadav",
+    "branch": "IT",
+    "rollNo": "IT109"
+  },
+  {
+    "id": 10,
+    "name": "Anjali Mishra",
+    "branch": "EE",
+    "rollNo": "EE110"
+  }
+]

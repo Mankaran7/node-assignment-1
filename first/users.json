@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1,
+    "username": "john_doe",
+    "password": "12345",
+    "firstName": "John",
+    "lastName": "Doe"
+  },
+  {
+    "id": 2,
+    "username": "jane_smith",
+    "password": "abcd",
+    "firstName": "Jane",
+    "lastName": "Smith"
+  },
+  {
+    "id": 4,
+    "username": "emma_watson",
+    "password": "emma456",
+    "firstName": "Emma",
+    "lastName": "Watson"
+  },
+  {
+    "id": 5,
+    "username": "alex_jones",
+    "password": "alex789",
+    "firstName": "Alex",
+    "lastName": "Jones"
+  },
+  {
+    "id": 6,
+    "username": "linda_brown",
+    "password": "linda001",
+    "firstName": "Linda",
+    "lastName": "Brown"
+  },
+  {
+    "id": 7,
+    "username": "robert_miller",
+    "password": "rob123",
+    "firstName": "Robert",
+    "lastName": "Miller"
+  },
+  {
+    "id": 8,
+    "username": "olivia_davis",
+    "password": "olivia999",
+    "firstName": "Olivia",
+    "lastName": "Davis"
+  },
+  {
+    "id": 9,
+    "username": "william_clark",
+    "password": "william111",
+    "firstName": "William",
+    "lastName": "Clark"
+  },
+  {
+    "id": 10,
+    "username": "sophia_white",
+    "password": "sophia888",
+    "firstName": "Sophia",
+    "lastName": "White"
+  },
+  {
+    "id": 10,
+    "username": "Saurabh7",
+    "password": "567",
+    "firstName": "saurabh",
+    "lastName": "kumar",
+    "created_on": "2025-03-18T13:47:47.770Z"
+  }
+]
